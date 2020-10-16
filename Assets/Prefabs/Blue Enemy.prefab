@@ -10,8 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 5703662573062060830}
   - component: {fileID: 5703662573062060829}
+  - component: {fileID: 8507980479297125312}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Blue Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70,7 +71,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e7ac85d7943ff8f46913e558cdda70f1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f4dd130287c855f49a415b6718565437, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -81,3 +82,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8507980479297125312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5703662573062060828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c73359073435f4882153d6b8a5bbb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
