@@ -117,6 +117,10 @@ MonoBehaviour:
   fireSpeed: 10
   explosionParticleEffect: {fileID: 5478302807632108537, guid: fbb5b9d761e7e804f8a42dd31b54102f,
     type: 3}
+  deathSFX: {fileID: 8300000, guid: dbba65350cc792845812c3999c73aaa6, type: 3}
+  deathSoundVolume: 0.75
+  shootSound: {fileID: 8300000, guid: ff93bf5bc100c3d4395e3e96ae7bacb4, type: 3}
+  shootSoundVolume: 0.2
 --- !u!61 &7217133843706631143
 BoxCollider2D:
   m_ObjectHideFlags: 0

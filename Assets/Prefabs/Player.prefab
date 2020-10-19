@@ -98,9 +98,15 @@ MonoBehaviour:
   moveSpeed: 10
   worldPadding: 0.5
   health: 200
+  deathSFX: {fileID: 8300000, guid: 09b7832b1d4bd3a49ba44ea5240e00b1, type: 3}
+  deathSoundVolume: 0.3
+  shootSound: {fileID: 8300000, guid: 6fcd62e4191c6124a9d98dd82ae447a0, type: 3}
+  shootSoundVolume: 0.1
+  hitSFX: {fileID: 8300000, guid: 6fcd62e4191c6124a9d98dd82ae447a0, type: 3}
+  hitSFXVolume: 0.3
   laserPrefab: {fileID: 3393355995674133048, guid: 0c1ca9786a405e442848fa2330d5c239,
     type: 3}
-  projectileSpeed: 30
+  projectileSpeed: 50
   projectileFiringPeriod: 0.1
 --- !u!60 &6057277083717453010
 PolygonCollider2D:

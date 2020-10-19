@@ -9629,25 +9629,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: -270, y: -89, z: 90}
---- !u!1 &858033769 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2786744348837383457, guid: 52b8f6c1cae09c14da244f9aeb9ee182,
-    type: 3}
-  m_PrefabInstance: {fileID: 7638669121822631195}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &858033770
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 858033769}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 32001fa986be9c8469dcd3c3bb627765, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  backgroundScrollSpeed: 0.1
 --- !u!1001 &1955998097
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9658,7 +9639,7 @@ PrefabInstance:
     - target: {fileID: 820387831225493833, guid: e3eb4579c3eaa6843a0c38903a3ab309,
         type: 3}
       propertyPath: m_Name
-      value: Shredder (1)
+      value: Shredder Bottom
       objectReference: {fileID: 0}
     - target: {fileID: 820387831225493836, guid: e3eb4579c3eaa6843a0c38903a3ab309,
         type: 3}
@@ -9727,7 +9708,7 @@ PrefabInstance:
     - target: {fileID: 820387831225493833, guid: e3eb4579c3eaa6843a0c38903a3ab309,
         type: 3}
       propertyPath: m_Name
-      value: Shredder
+      value: Shredder Top
       objectReference: {fileID: 0}
     - target: {fileID: 820387831225493836, guid: e3eb4579c3eaa6843a0c38903a3ab309,
         type: 3}
