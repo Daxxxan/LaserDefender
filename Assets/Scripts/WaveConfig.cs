@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Enemy Wafe Config")]
+[CreateAssetMenu(menuName = "Enemy Wave Config")]
 public class WaveConfig : ScriptableObject
 {
     [SerializeField] GameObject enemyPrefab;
